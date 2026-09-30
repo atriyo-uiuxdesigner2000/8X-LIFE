@@ -1,0 +1,6 @@
+{
+  "name": "8X // Sovereign Human Infrastructure",
+  "description": "High-performance editorial brutalist broadsheet and orchestration prototype for the top 1% of autonomous talent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
